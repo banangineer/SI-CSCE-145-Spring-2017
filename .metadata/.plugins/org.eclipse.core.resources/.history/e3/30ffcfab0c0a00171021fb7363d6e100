@@ -1,0 +1,10 @@
+package box_sorter;
+
+public class BoxSorter {
+
+  public static void main(String[] args) {
+    // TODO Auto-generated method stub
+
+  }
+
+}
