@@ -3,7 +3,7 @@
   <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workbench>&#xA;&lt;mruList>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;DresserFrontEnd.java&quot; tooltip=&quot;Homework06--LaundrySorter/src/sorting_laundry/DresserFrontEnd.java&quot;>&#xA;&lt;persistable path=&quot;/Homework06--LaundrySorter/src/sorting_laundry/DresserFrontEnd.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Dresser.java&quot; tooltip=&quot;Homework06--LaundrySorter/src/sorting_laundry/Dresser.java&quot;>&#xA;&lt;persistable path=&quot;/Homework06--LaundrySorter/src/sorting_laundry/Dresser.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Clothing.java&quot; tooltip=&quot;Homework06--LaundrySorter/src/sorting_laundry/Clothing.java&quot;>&#xA;&lt;persistable path=&quot;/Homework06--LaundrySorter/src/sorting_laundry/Clothing.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Clothing.java&quot; tooltip=&quot;Homework06--SortingLaundry/src/laundry_sorter/Clothing.java&quot;>&#xA;&lt;persistable path=&quot;/Homework06--SortingLaundry/src/laundry_sorter/Clothing.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;DresserFrontEnd.java&quot; tooltip=&quot;/Users/judsonjames/Github/SI-CSCE-145-Spring-2017/Homework06--SortingLaundry/src/laundry_sorter/DresserFrontEnd.java&quot;>&#xA;&lt;persistable uri=&quot;file:/Users/judsonjames/Github/SI-CSCE-145-Spring-2017/Homework06--SortingLaundry/src/laundry_sorter/DresserFrontEnd.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Dresser.java&quot; tooltip=&quot;/Users/judsonjames/Github/SI-CSCE-145-Spring-2017/Homework06--SortingLaundry/src/laundry_sorter/Dresser.java&quot;>&#xA;&lt;persistable uri=&quot;file:/Users/judsonjames/Github/SI-CSCE-145-Spring-2017/Homework06--SortingLaundry/src/laundry_sorter/Dresser.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Clothing.java&quot; tooltip=&quot;/Users/judsonjames/Github/SI-CSCE-145-Spring-2017/Homework06--SortingLaundry/src/laundry_sorter/Clothing.java&quot;>&#xA;&lt;persistable uri=&quot;file:/Users/judsonjames/Github/SI-CSCE-145-Spring-2017/Homework06--SortingLaundry/src/laundry_sorter/Clothing.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;BoxSorter.java&quot; tooltip=&quot;BoxSorting--Lab-17/src/box_sorter/BoxSorter.java&quot;>&#xA;&lt;persistable path=&quot;/BoxSorting--Lab-17/src/box_sorter/BoxSorter.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.ui.browser.editorSupport&quot; name=&quot;BoxSorter.html&quot; tooltip=&quot;BoxSorting--Lab-17/doc/box_sorter/BoxSorter.html&quot;>&#xA;&lt;persistable path=&quot;/BoxSorting--Lab-17/doc/box_sorter/BoxSorter.html&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Box.java&quot; tooltip=&quot;BoxSorting--Lab-17/src/box_sorter/Box.java&quot;>&#xA;&lt;persistable path=&quot;/BoxSorting--Lab-17/src/box_sorter/Box.java&quot;/>&#xA;&lt;/file>&#xA;&lt;/mruList>&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
-  <children xsi:type="basic:TrimmedWindow" xmi:id="_wwK0ggoIEeeQ9bdZ3iRKGA" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_xLxycQoIEeeQ9bdZ3iRKGA" label="%trimmedwindow.label.eclipseSDK" x="42" y="80" width="1680" height="1050">
+  <children xsi:type="basic:TrimmedWindow" xmi:id="_wwK0ggoIEeeQ9bdZ3iRKGA" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_xLxycQoIEeeQ9bdZ3iRKGA" label="%trimmedwindow.label.eclipseSDK" x="42" y="80" width="1680" height="962">
     <persistedState key="coolBarVisible" value="true"/>
     <persistedState key="perspectiveBarVisible" value="true"/>
     <persistedState key="isRestored" value="true"/>
@@ -11,6 +11,7 @@
     <persistedState key="workingSets" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workingSets/>"/>
     <persistedState key="aggregateWorkingSetId" value="Aggregate for window 1489641844665"/>
     <tags>topLevel</tags>
+    <tags>shellMaximized</tags>
     <children xsi:type="basic:PartSashContainer" xmi:id="_xLxycQoIEeeQ9bdZ3iRKGA" selectedElement="_xLxycgoIEeeQ9bdZ3iRKGA" horizontal="true">
       <children xsi:type="advanced:PerspectiveStack" xmi:id="_xLxycgoIEeeQ9bdZ3iRKGA" elementId="org.eclipse.ui.ide.perspectivestack" containerData="7500" selectedElement="_xTSvsAoIEeeQ9bdZ3iRKGA">
         <children xsi:type="advanced:Perspective" xmi:id="_xTSvsAoIEeeQ9bdZ3iRKGA" elementId="org.eclipse.jdt.ui.JavaPerspective" selectedElement="_xTSvsQoIEeeQ9bdZ3iRKGA" label="Java" iconURI="platform:/plugin/org.eclipse.jdt.ui/$nl$/icons/full/eview16/jperspective.png">
@@ -147,19 +148,19 @@
         <tags>EditorStack</tags>
         <tags>active</tags>
         <children xsi:type="basic:Part" xmi:id="_Dp4pQA06EeeX3s8XGHB_jQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Clothing.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Clothing.java&quot; partName=&quot;Clothing.java&quot; title=&quot;Clothing.java&quot; tooltip=&quot;Homework06--LaundrySorter/src/sorting_laundry/Clothing.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Homework06--LaundrySorter/src/sorting_laundry/Clothing.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1907&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Clothing.java&quot; partName=&quot;Clothing.java&quot; title=&quot;Clothing.java&quot; tooltip=&quot;Homework06--LaundrySorter/src/sorting_laundry/Clothing.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Homework06--LaundrySorter/src/sorting_laundry/Clothing.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1964&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_FtaAMA06EeeX3s8XGHB_jQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Dresser.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Dresser.java&quot; partName=&quot;Dresser.java&quot; title=&quot;Dresser.java&quot; tooltip=&quot;Homework06--LaundrySorter/src/sorting_laundry/Dresser.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Homework06--LaundrySorter/src/sorting_laundry/Dresser.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;5772&quot; selectionTopPixel=&quot;3528&quot;/>&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Dresser.java&quot; partName=&quot;Dresser.java&quot; title=&quot;Dresser.java&quot; tooltip=&quot;Homework06--LaundrySorter/src/sorting_laundry/Dresser.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Homework06--LaundrySorter/src/sorting_laundry/Dresser.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;5958&quot; selectionTopPixel=&quot;3636&quot;/>&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_HF9ukA06EeeX3s8XGHB_jQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="DresserFrontEnd.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;DresserFrontEnd.java&quot; partName=&quot;DresserFrontEnd.java&quot; title=&quot;DresserFrontEnd.java&quot; tooltip=&quot;Homework06--LaundrySorter/src/sorting_laundry/DresserFrontEnd.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Homework06--LaundrySorter/src/sorting_laundry/DresserFrontEnd.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;592&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;DresserFrontEnd.java&quot; partName=&quot;DresserFrontEnd.java&quot; title=&quot;DresserFrontEnd.java&quot; tooltip=&quot;Homework06--LaundrySorter/src/sorting_laundry/DresserFrontEnd.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Homework06--LaundrySorter/src/sorting_laundry/DresserFrontEnd.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;2720&quot; selectionTopPixel=&quot;1256&quot;/>&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
@@ -314,7 +315,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_xNBIkAoIEeeQ9bdZ3iRKGA" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_1Ga_0A05EeeX3s8XGHB_jQ" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_wwztxAoIEeeQ9bdZ3iRKGA"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_-nDzIA06Eeeip8DW0o0P5A" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_wwztxAoIEeeQ9bdZ3iRKGA"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_xNBIkQoIEeeQ9bdZ3iRKGA" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -338,7 +339,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_xNBIlQoIEeeQ9bdZ3iRKGA" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_1GeDIA05EeeX3s8XGHB_jQ" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_wwyfkQoIEeeQ9bdZ3iRKGA"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_-nG2cA06Eeeip8DW0o0P5A" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_wwyfkQoIEeeQ9bdZ3iRKGA"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_xNBvoAoIEeeQ9bdZ3iRKGA" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -820,7 +821,7 @@
       <tags>platform:cocoa</tags>
       <parameters xmi:id="_wxlw0QoIEeeQ9bdZ3iRKGA" elementId="org.eclipse.ui.views.showView.viewId" name="org.eclipse.ui.views.showView.viewId" value="org.eclipse.jdt.ui.JavadocView"/>
     </bindings>
-    <bindings xmi:id="_0uxU0A05EeeX3s8XGHB_jQ" keySequence="COMMAND+CTRL+F" command="_wyPREAoIEeeQ9bdZ3iRKGA"/>
+    <bindings xmi:id="_-L8kcQ06Eeeip8DW0o0P5A" keySequence="COMMAND+CTRL+F" command="_wyPREAoIEeeQ9bdZ3iRKGA"/>
   </bindingTables>
   <bindingTables xmi:id="_wxbYyAoIEeeQ9bdZ3iRKGA" elementId="org.eclipse.mylyn.tasks.ui.views.tasks" bindingContext="_ww4mQAoIEeeQ9bdZ3iRKGA">
     <bindings xmi:id="_wxbYyQoIEeeQ9bdZ3iRKGA" keySequence="ALT+SHIFT+ARROW_DOWN" command="_ww0U6woIEeeQ9bdZ3iRKGA"/>
@@ -923,7 +924,7 @@
     <bindings xmi:id="_wxjUmQoIEeeQ9bdZ3iRKGA" keySequence="ALT+CR" command="_wwu1NwoIEeeQ9bdZ3iRKGA"/>
   </bindingTables>
   <bindingTables xmi:id="_wyP4IAoIEeeQ9bdZ3iRKGA" contributorURI="platform:/fragment/org.eclipse.e4.ui.workbench.renderers.swt.cocoa" bindingContext="_wwLbkAoIEeeQ9bdZ3iRKGA">
-    <bindings xmi:id="_0ux74A05EeeX3s8XGHB_jQ" keySequence="M1+W" command="_wyPRFQoIEeeQ9bdZ3iRKGA"/>
+    <bindings xmi:id="_-L9LgA06Eeeip8DW0o0P5A" keySequence="M1+W" command="_wyPRFQoIEeeQ9bdZ3iRKGA"/>
   </bindingTables>
   <bindingTables xmi:id="_xTBp8QoIEeeQ9bdZ3iRKGA" bindingContext="_xTBp8AoIEeeQ9bdZ3iRKGA"/>
   <bindingTables xmi:id="_xTBp8woIEeeQ9bdZ3iRKGA" bindingContext="_xTBp8goIEeeQ9bdZ3iRKGA"/>
@@ -2380,7 +2381,7 @@
   <addons xmi:id="_wwLbnAoIEeeQ9bdZ3iRKGA" elementId="MinMax Addon" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.MinMaxAddon"/>
   <addons xmi:id="_wwLbnQoIEeeQ9bdZ3iRKGA" elementId="org.eclipse.ui.workbench.addon.0" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.HandlerProcessingAddon"/>
   <addons xmi:id="_wwRiMAoIEeeQ9bdZ3iRKGA" elementId="SplitterAddon" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.splitteraddon.SplitterAddon"/>
-  <addons xmi:id="_0ujSYQ05EeeX3s8XGHB_jQ" elementId="org.eclipse.ui.ide.addon.0" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
+  <addons xmi:id="_IYS0IKimEeS11vbz3f9ezw" elementId="org.eclipse.ui.ide.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
   <addons xmi:id="_dz0JgGOlEeSMMaPQU2nlzw" elementId="org.eclipse.ui.ide.application.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.ui.ide.application/org.eclipse.ui.internal.ide.application.addons.ModelCleanupAddon"/>
   <addons xmi:id="_wyNb4AoIEeeQ9bdZ3iRKGA" elementId="org.eclipse.e4.ui.workbench.renderers.swt.cocoa.CocoaUIHandler" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.cocoa.CocoaUIHandler"/>
   <categories xmi:id="_wwtAAAoIEeeQ9bdZ3iRKGA" elementId="org.eclipse.team.ui.category.team" name="Team" description="Actions that apply when working with a Team"/>

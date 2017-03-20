@@ -71,5 +71,5 @@ public class DresserFrontEnd {
     } // end looping
     System.out.println("Goodbye.");
     keyboard.close();
-  } // end of main method
-} // end of DresserFrontEnd
+  } // end main method
+}

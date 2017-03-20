@@ -18,62 +18,61 @@ package sorting_laundry;
 */
 //---------------------------------------------------------------------------
 public class Clothing {
-private String type;
-private String color;
+  private String type;
+  private String color;
 
-// Default Constructor
-public Clothing () {
-  this.type = "";
-  this.color = "";
-}
-
-// Parameterized Constructor
-public Clothing (String aType, String aColor) {
-  setType(aType);
-  setColor(aColor);
-}
-
-public String getType () {
-  return this.type;
-}
-public String getColor () {
-  return this.color;
-}
-
-public void setType (String aType) {
-  String[] validTypes = {"undergarment", "socks", "stockings",
-                         "top", "bottom", "cape"};
-  for (int i = 0; i < validTypes.length; ++i) {
-    if (aType.toLowerCase().equals(validTypes[i])) {
-      this.type = aType.toLowerCase();
-      return; 
-    }
+  // Default Constructor
+  public Clothing () {
+    this.type = "";
+    this.color = "";
   }
-  this.type = "";
-} // end setType
 
-public void setColor (String aColor) {
-  String[] validColors = {"brown", "red", "pink", "orange", "green", 
-                          "blue", "purple", "grey"};
-  for (int i = 0; i < validColors.length; ++i) {
-    if (aColor.toLowerCase().equals(validColors[i])) {
-      this.color = aColor.toLowerCase();
-      return;
-    }
+  // Parameterized Constructor
+  public Clothing (String aType, String aColor) {
+    setType(aType);
+    setColor(aColor);
   }
-  this.color = "";
-} // end setColor
 
-public String toString () {
-  return "Clothing [type=" + type + ", color=" + color + "]";
-}
+  public String getType () {
+    return this.type;
+  }
+  public String getColor () {
+    return this.color;
+  }
 
-public boolean equals (Clothing aClothing) {
-  if (this.type.equals(aClothing.getType())
-      && this.color.equals(aClothing.getColor())) {
+  public void setType (String aType) {
+    String[] validTypes = {"undergarment", "socks", "stockings",
+                            "top", "bottom", "cape"};
+    for (int i = 0; i < validTypes.length; ++i) {
+      if (aType.toLowerCase().equals(validTypes[i])) {
+        this.type = aType.toLowerCase();
+        return; 
+      }
+    }
+    this.type = "";
+  } // end setType
+
+  public void setColor (String aColor) {
+    String[] validColors = {"brown", "red", "pink", "orange", "green", 
+                             "blue", "purple", "grey"};
+    for (int i = 0; i < validColors.length; ++i) {
+      if (aColor.toLowerCase().equals(validColors[i])) {
+        this.color = aColor.toLowerCase();
+        return;
+      }
+    }
+    this.color = "";
+  } // end setColor
+
+  public String toString () {
+    return "Clothing [type=" + type + ", color=" + color + "]";
+  }
+
+  public boolean equals (Clothing aClothing) {
+    if (this.type.equals(aClothing.getType())
+        && this.color.equals(aClothing.getColor())) {
     return true;
   }
   return false;
-}
-}
-
+  }
+} // end of Clothing class
