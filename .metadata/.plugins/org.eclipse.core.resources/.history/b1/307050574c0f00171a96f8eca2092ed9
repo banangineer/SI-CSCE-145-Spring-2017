@@ -1,0 +1,22 @@
+package shape_area;
+import java.util.Scanner;
+
+public class ShapeFrontEnd extends ShapeCollection{
+
+  public static void main(String[] args) {
+    ShapeCollection shapes = new ShapeCollection();
+    Scanner keyboard = new Scanner(System.in);
+    String userInput = "";
+    boolean continueProgram = true;
+    
+    System.out.println("Welcome to the Shapes collections");
+    while (continueProgram == true) {
+      
+    }
+  }
+  public void printMenu () {
+    System.out.println("Enter 1: Add a shape"
+        +"\nEnter 2: Remove a shape"
+        +"\nEnter 9: Quit");
+  }
+}

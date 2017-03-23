@@ -1,0 +1,46 @@
+package shape_area;
+
+public class ShapeCollection {
+  // Instance Variables
+  private final int SHAPES_ARRAY_SIZE = 10;
+  private Shape[] shapes = new Shape[SHAPES_ARRAY_SIZE];
+  
+  // Constructors
+  public ShapeCollection () {
+    for (int i = 0; i < shapes.length; ++i) {
+      shapes[i] = null;
+    }
+  }
+  
+  // Private Methods
+  private void sortShapes () {
+    boolean doneSorting = false;
+    
+    while (doneSorting == false) {
+      for (int i = 0; i < shapes.length - 1; ++i) {
+        if (shapes[i].getArea() < shapes[i+1].getArea()) {
+          Shape temp = shapes[i];
+          shapes[i] = shapes[i+1];
+          shapes[i+1] = temp;
+        }
+      }
+    } // done sorting
+  } // end sortShapes ()
+  
+  // Public Methods
+  public void addShape () {
+    // TODO Code
+    sortShapes();
+  } // end addShape ()
+  
+  public void removeShape () {
+    // TODO Code
+    sortShapes();
+  } // end removeShape ()
+  
+  public void printShapes () {
+    for (int i = 0; i < shapes.length; ++i) {
+      System.out.println(shapes[i]);
+    }
+  } // end printShapes ()
+}

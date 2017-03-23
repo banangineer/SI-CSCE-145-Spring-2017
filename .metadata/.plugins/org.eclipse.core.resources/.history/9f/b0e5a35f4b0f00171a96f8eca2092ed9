@@ -1,0 +1,8 @@
+package shape_area;
+
+public class ShapeFrontEnd extends ShapeCollection{
+
+  public static void main(String[] args) {
+    
+  }
+}

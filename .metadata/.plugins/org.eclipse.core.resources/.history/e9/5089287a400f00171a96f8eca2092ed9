@@ -1,0 +1,32 @@
+package shape_area;
+
+public class ShapeCollection {
+  // Instance Variables
+  private final int SHAPES_ARRAY_SIZE = 10;
+  private Shape[] shapes = new Shape[SHAPES_ARRAY_SIZE];
+  
+  // Constructors
+  public ShapeCollection () {
+    for (int i = 0; i < shapes.length; ++i) {
+      shapes[i] = null;
+    }
+  }
+  
+  // Private Methods
+  private void sortShapes () {
+    
+  }
+  
+  // Public Methods
+  public void addShape () {
+    
+  }
+  
+  public void removeShape () {
+    
+  }
+  
+  public void printShapes () {
+    
+  }
+}

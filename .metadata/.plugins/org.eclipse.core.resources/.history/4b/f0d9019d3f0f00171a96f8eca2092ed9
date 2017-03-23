@@ -1,0 +1,6 @@
+package shape_area;
+
+public class ShapeCollection extends Shape {
+  private final int SHAPES_ARRAY_SIZE = 10;
+  private Shape[] shapes = new Shape[SHAPES_ARRAY_SIZE];
+}

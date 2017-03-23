@@ -1,0 +1,6 @@
+package shape_area;
+
+public class ShapeCollection extends ShapeInterface {
+  private final int SHAPES_ARRAY_SIZE = 10;
+  private ShapeInterface[] shapes = new ShapeInterface[SHAPES_ARRAY_SIZE];
+}

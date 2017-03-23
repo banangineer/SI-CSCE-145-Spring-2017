@@ -1,0 +1,15 @@
+package shape_area;
+
+public class Circle implements Shape {
+  private double radius;
+  public double getArea() {
+    return 0.0;
+  }
+  @Override
+  public String toString() {
+    return "Circle [radius=" + radius + ", area=" + this.getArea() + "]";
+  }
+  public String getShapeType() {
+    return "Circle";
+  }
+}
