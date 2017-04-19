@@ -1,0 +1,16 @@
+package date_exceptions;
+
+public class DateConverter {
+  public static String DateConverter(String anInput) {
+    // Variables
+    String correctDate = "";
+    int month = 0;
+    int day = 0;
+    int slashIndex = 0;
+    
+    // Parse the Data so that we can isolate months and days
+    slashIndex = anInput.indexOf("/");
+    // Return the Correct Date
+    return correctDate;
+  }
+}

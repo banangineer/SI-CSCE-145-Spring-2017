@@ -1,0 +1,30 @@
+package date_exceptions;
+import java.util.Scanner;
+
+public class DateConverterDriver {
+
+  public static void main(String[] args) {
+    // Variables
+    Scanner keyboard = new Scanner(System.in);
+    String userInput = "";
+    String correctDate = "";
+    boolean endProgram = false;
+    
+    // Welcome the User to the Program
+    System.out.println("Welcome to the Date Converter!");
+    
+    // Loop the Program until the User wants to quit
+    while (endProgram == false) {
+      System.out.println("Enter a numeric date formatted as month/day "
+          + "or “Exit” to quit.");
+      userInput = keyboard.nextLine();
+      if (userInput.equalsIgnoreCase("exit")) {
+        System.out.println("Goodbye");
+        endProgram = true;
+      } else {
+        correctDate = DateConverter.dateConverter(userInput);
+        System.out.println(correctDate);
+      }
+    } // end of Loop
+  } // end of Main Method
+} // end of DateConverterDriver
