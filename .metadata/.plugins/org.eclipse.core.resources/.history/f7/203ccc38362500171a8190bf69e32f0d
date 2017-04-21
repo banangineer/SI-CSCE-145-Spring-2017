@@ -1,0 +1,22 @@
+package movie_database;
+
+public class MovieDatabaseBackEnd {
+  
+  private Movie[] movies = new Movie[10];
+  
+  public void addMovie(Movie aMovie) {
+    
+  }
+  
+  public void removeMovie (String aTitle) {
+    
+  }
+  
+  public void printToFile() {
+    
+  }
+  
+  public void readFromFile() {
+    
+  }
+}

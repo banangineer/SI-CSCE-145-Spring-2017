@@ -1,0 +1,39 @@
+package movie_database;
+
+public class MovieDatabaseBackEnd {
+  
+  private Movie[] movies = new Movie[10];
+  
+  public void addMovie(Movie aMovie) {
+    
+  }
+  
+  public void removeMovie (String aTitle) {
+    
+  }
+  
+  public void printToFile() {
+    
+  }
+  
+  public void readFromFile() {
+    
+  }
+  
+  public void sortByTitle() {
+    for (int i = 0; movies[i] != null; ++i) {
+      if (movies[i].getName().charAt(0) 
+          > movies[i+1].getName().charAt(0)) {
+        
+      }
+      else if (movies[i].getName().charAt(0) 
+          < movies[i+1].getName().charAt(0)) {
+        
+      }
+      else if (movies[i].getName().charAt(0) 
+          == movies[i+1].getName().charAt(0)) {
+        
+      }
+    }
+  }
+}

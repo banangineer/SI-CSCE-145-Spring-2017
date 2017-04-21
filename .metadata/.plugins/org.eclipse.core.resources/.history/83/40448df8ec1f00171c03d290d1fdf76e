@@ -1,5 +1,0 @@
-package date_exceptions;
-
-public class MonthException {
-
-}
