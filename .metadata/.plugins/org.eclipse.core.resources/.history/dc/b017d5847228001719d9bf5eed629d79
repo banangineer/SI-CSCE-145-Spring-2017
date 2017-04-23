@@ -1,0 +1,50 @@
+package video_poker;
+import javax.swing.*;
+
+public class VideoPokerGUI {
+  // Miscellaneous J-Items
+  private JFrame frame;
+  private JTextArea money;
+  
+  // Buttons for Cards
+  private JButton card01;
+  private JButton card02;
+  private JButton card03;
+  private JButton card04;
+  private JButton card05;
+  
+  // Buttons for Wagers
+  private JButton wager10;
+  private JButton wager20;
+  private JButton wager50;
+  private JButton wager100;
+  private JButton wagerContinue;
+
+  private int earnings;
+  
+  // Default Constructor
+  public VideoPokerGUI () {
+    this.frame = new JFrame("CSCE 145 -- Video Poker");
+    this.earnings = getEarnings();
+    this.money = new JTextArea(earnings + "");
+    
+    this.card01 = new JButton();
+    this.card02 = new JButton();
+    this.card03 = new JButton();
+    this.card04 = new JButton();
+    this.card05 = new JButton();
+
+    this.wager10 = new JButton("$10");
+    this.wager20 = new JButton("$20");
+    this.wager50 = new JButton("$50");
+    this.wager100 = new JButton("$100");
+    this.wagerContinue = new JButton("Confirm");
+  } // end of Constructor
+  
+  public int getEarnings() {
+    return 0;
+  }
+  public void setEarnings() {
+    
+  }
+} // end of VideoPokerGUI

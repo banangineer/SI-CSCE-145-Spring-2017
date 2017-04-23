@@ -1,0 +1,14 @@
+package video_poker;
+import javax.swing.*;
+
+public class VideoPokerGUI {
+  private JFrame frame;
+  private JTextArea money;
+  
+  private JButton card1;
+  private JButton card2;
+  private JButton card3;
+  private JButton card4;
+  private JButton card5;
+
+}
