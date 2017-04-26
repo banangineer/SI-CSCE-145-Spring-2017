@@ -62,11 +62,11 @@ public class VideoPokerGUI implements ActionListener {
     this.wagerContinue = new JButton("GO!!");
     
     // Set Boundaries
-    this.card01.setBounds(bXBase, bYBase, bWidth*6, bHeight);
-    this.card02.setBounds(bXBase, bYBase + bDY*2, bWidth*6, bHeight);
-    this.card03.setBounds(bXBase, bYBase + bDY*4, bWidth*6, bHeight);
-    this.card04.setBounds(bXBase, bYBase + bDY*6, bWidth*6, bHeight);
-    this.card05.setBounds(bXBase, bYBase + bDY*8, bWidth*6, bHeight);
+    this.card01.setBounds(bXBase, bYBase, bWidth*2, bHeight);
+    this.card02.setBounds(bXBase, bYBase + bDY*2, bWidth*2, bHeight);
+    this.card03.setBounds(bXBase, bYBase + bDY*4, bWidth*2, bHeight);
+    this.card04.setBounds(bXBase, bYBase + bDY*6, bWidth*2, bHeight);
+    this.card05.setBounds(bXBase, bYBase + bDY*8, bWidth*2, bHeight);
 
     this.wager10.setBounds(bXBase, bYBase + bDY*10, bWidth, bHeight/2);
     this.wager20.setBounds(bXBase + bDX, bYBase + bDY*10, bWidth, bHeight/2);
@@ -74,7 +74,7 @@ public class VideoPokerGUI implements ActionListener {
     this.wager100.setBounds(bXBase + bDX*3, bYBase + bDY*10, bWidth, bHeight/2);
     this.wagerContinue.setBounds(bXBase + bDX*4, bYBase + bDY*10, bWidth, bHeight/2);
 
-    this.money.setBounds(bXBase + bDX*5, bYBase + bDY*10, bWidth, bHeight/2);
+    this.money.setBounds(bXBase + bDX*5, bYBase + bDY*5, bWidth, bHeight/2);
     
     // Add Buttons
     this.frame.add(card01);
@@ -110,11 +110,9 @@ public class VideoPokerGUI implements ActionListener {
     this.wagerContinue.addActionListener(this);
   } // end of Constructor
   
-  // File I/O to receive ONE number
   public int getEarnings() {
     return 0;
   }
-  // Print ONE integer to the file
   public void setEarnings() {
     
   }
@@ -125,27 +123,28 @@ public class VideoPokerGUI implements ActionListener {
     int valueInt = random.nextInt(13);
     String[] casesArray = {"Spades", "Clubs", "Diamonds", "Hearts"};
     String cases = casesArray[caseInt];
-    String value = "";
+    char value = ' ';
     String cardInfo = "";
     
     switch (valueInt) {
       case 0:
-        value = "A";
+        value = 'A';
         break;
       case 11:
-        value = "J";
+        value = 'J';
         break;
       case 12:
-        value = "Q";
+        value = 'Q';
         break;
       case 13:
-        value = "K";
+        value = 'K';
         break;
       default:
-        value = "" + valueInt;
+        value = (char) ((int) valueInt - 48);
         break;
     }
-    cardInfo = "Card " + index + " -->   " + cases + "   " + value;
+    String newLine = "\n";
+    cardInfo = "Case:" + newLine + cases + newLine +"Value:" + newLine + value;
     
     switch (index) {
       case 1:
@@ -169,17 +168,7 @@ public class VideoPokerGUI implements ActionListener {
     }
   } // end of changeCard(int)
   
-  public void checkForWinnings() {
-    // Checks for different cases listed within the description
-  }
-  
-  public void resetGame() {
-    // Reset all of the Cards
-  }
-  
   public void actionPerformed(ActionEvent e) {
     
   }
-  
-  
 } // end of VideoPokerGUI

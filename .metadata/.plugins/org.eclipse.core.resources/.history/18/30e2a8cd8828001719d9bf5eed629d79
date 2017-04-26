@@ -110,11 +110,9 @@ public class VideoPokerGUI implements ActionListener {
     this.wagerContinue.addActionListener(this);
   } // end of Constructor
   
-  // File I/O to receive ONE number
   public int getEarnings() {
     return 0;
   }
-  // Print ONE integer to the file
   public void setEarnings() {
     
   }
@@ -145,7 +143,7 @@ public class VideoPokerGUI implements ActionListener {
         value = "" + valueInt;
         break;
     }
-    cardInfo = "Card " + index + " -->   " + cases + "   " + value;
+    cardInfo = "Card " + index + " --> Case: " + cases +" --> Value:" + value;
     
     switch (index) {
       case 1:
@@ -171,10 +169,6 @@ public class VideoPokerGUI implements ActionListener {
   
   public void checkForWinnings() {
     // Checks for different cases listed within the description
-  }
-  
-  public void resetGame() {
-    // Reset all of the Cards
   }
   
   public void actionPerformed(ActionEvent e) {
